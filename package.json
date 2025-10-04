@@ -1,0 +1,5 @@
+{
+  "name": "createxyz-apps",
+  "private": true,
+  "workspaces": ["web"]
+}
